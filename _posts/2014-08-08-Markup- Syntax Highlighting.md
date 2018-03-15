@@ -2,6 +2,8 @@
 layout: post
 title: "Markup: Syntax Highlighting"
 tags: [code]
+published: false
+
 ---
 
 From Michael's Rose Minimal Mistakes. [^2]

@@ -1,35 +1,35 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://nimeshbabuoli.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
-  avatar: assets/img/triangle.svg
+  title: nimesh
+  avatar: assets/img/peace.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Personal Blog" # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>❤️ ☮️🌎🇳🇵 <br>💻Computer Engineering Student <br>🌐 World Affairs Enthusiast<br>🚲Loves Travelling<br> </br>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "nimeshbabuoli"
   flickr:
   gitlab:
-  github: "sylhare"
-  google_plus:
-  instagram:
+  github: "nimeshbabuoli"
+  google_plus: "+nimeshbabuoli"
+  instagram: "nimeshbabuoli"
   keybase:
   linkedin:  # Full URL
   pinterest:
@@ -38,16 +38,16 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "nimeshbabuoli" # "twitter username"
   vimeo:
-  wordpress:
+  wordpress: 
   youtube:
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  portfolio: true
+  portfolio: false
   search: true
   tags: true
   
