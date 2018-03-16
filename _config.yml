@@ -5,9 +5,10 @@ url: "https://nimeshbabuoli.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: nimesh
+  title: Nimesh's Personal Website
+  home_title: nimesh
   avatar: assets/img/peace.svg
-  favicon: assets/favicon.ico
+  favicon: favicon.ico
   gravatar: # Email MD5 hash
   description: "Personal Blog" # used by search engines
 
@@ -28,7 +29,7 @@ theme_settings:
   flickr:
   gitlab:
   github: "nimeshbabuoli"
-  google_plus: "+nimeshbabuoli"
+  google_plus: 
   instagram: "nimeshbabuoli"
   keybase:
   linkedin:  # Full URL
